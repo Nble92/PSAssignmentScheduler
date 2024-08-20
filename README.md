@@ -29,7 +29,7 @@ plaintext
 Copy code
 CANVAS_ANNOUNCE_URL=https://canvas.instructure.com/api/v1/announcements?context_codes[]=course_126190000000002159
 CANVAS_ASSIGNMENT_URL=https://canvas.instructure.com/api/v1/courses/126190000000002159/assignments?per_page=200
-CANVAS_TOKEN=12619~YnUCAfDrcMGZaQBAyaJRkTXLWMtW89EwU7wkkzcHDYQVHLJe93DX9xAPfx7BfKc6
+CANVAS_TOKEN=token you get from registering with the api
 Run the Script
 You can execute the script directly in PowerShell:
 
